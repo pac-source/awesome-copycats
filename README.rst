@@ -97,7 +97,7 @@ Just do the following:
 
 .. code-block:: shell
 
-    git clone --recurse-submodules --remote-submodules --depth 1 -j 2 https://github.com/john-pacmannn/awesome-copycats.git
+    git clone --recurse-submodules --remote-submodules --depth 1 -j 2 https://github.com/pac-source/awesome-copycats.git
     mkdir -p ~/.config/awesome && mv -bv awesome-copycats/{*,.[^.]*} ~/.config/awesome &&  rm -rf awesome-copycats
 
 
