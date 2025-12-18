@@ -439,10 +439,10 @@ globalkeys = mytable.join(
               {description = "show weather", group = "widgets"}),
 
     -- Screen brightness
-    awful.key({ altkey, modkey }, ".", function () os.execute("xbacklight -inc 10") end,
-              {description = "+10%", group = "hotkeys"}),
-    awful.key({ altkey, modkey }, ",", function () os.execute("xbacklight -dec 10") end,
-              {description = "-10%", group = "hotkeys"}),
+--    awful.key({ altkey, modkey }, ".", function () os.execute("xbacklight -inc 10") end,
+--              {description = "+10%", group = "hotkeys"}),
+--    awful.key({ altkey, modkey }, ",", function () os.execute("xbacklight -dec 10") end,
+--              {description = "-10%", group = "hotkeys"}),
 
     -- ALSA volume control
 
