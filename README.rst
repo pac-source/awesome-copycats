@@ -5,10 +5,10 @@ Awesome WM Copycats
 Themes for Awesome WM 4.x
 -------------------------
 
-:Original Author: Luca CPZ
+:Author: Luca CPZ
 :Version: git
 :License: BY-SA_
-:Fork Source: https://github.com/lcpz/awesome-copycats
+:Source: https://github.com/lcpz/awesome-copycats
 
 Description
 ===========
