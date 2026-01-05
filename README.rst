@@ -15,8 +15,6 @@ Description
 
 A set of themes for the Awesome_ window manager, version 4.x.
 
-See branches_ for previous versions.
-
 Purpose
 =======
 
@@ -102,7 +100,7 @@ Every theme has a colorscheme_.
 
 Additional default software used: ::
 
-    amixer dmenu librewolf mpc mpd scrot unclutter xbacklight xsel slock brightnessctl
+    amixer brightnessctl dmenu firefox mpc mpd scrot slock unclutter xsel
 
 .. _BY-SA: https://creativecommons.org/licenses/by-sa/4.0
 .. _Awesome: http://github.com/awesomeWM/awesome
