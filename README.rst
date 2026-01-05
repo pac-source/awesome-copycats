@@ -102,7 +102,7 @@ Every theme has a colorscheme_.
 
 Additional default software used: ::
 
-    amixer dmenu librewolf mpc mpd scrot unclutter xbacklight xsel slock
+    amixer dmenu librewolf mpc mpd scrot unclutter xbacklight xsel slock brightnessctl
 
 .. _BY-SA: https://creativecommons.org/licenses/by-sa/4.0
 .. _Awesome: http://github.com/awesomeWM/awesome
