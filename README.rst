@@ -5,7 +5,7 @@ Awesome WM Copycats
 Themes for Awesome WM 4.x
 -------------------------
 
-:Author: Luca CPZ
+:Original Author: Luca CPZ
 :Version: git
 :License: BY-SA_
 :Fork Source: https://github.com/lcpz/awesome-copycats
@@ -57,7 +57,6 @@ Just do the following:
     git clone --recurse-submodules --remote-submodules --depth 1 -j 2 https://github.com/pac-source/awesome-copycats.git
     mkdir -p ~/.config/awesome && mv -bv awesome-copycats/{*,.[^.]*} ~/.config/awesome &&  rm -rf awesome-copycats
 
-
 Usage
 =====
 
@@ -95,7 +94,7 @@ Notes
 
 Complements are provided by lain_ and freedesktop_. **Be sure** to satisfy their dependencies_. In particular, mail_ and weather_ widgets have **mandatory** arguments.
 
-The fonts used in the screenshots are: Terminus_ (Multicolor, Powerarrow, Powerarrow Dark), Roboto_ (Holo, Vertex) and Tamzen_ (other ones).
+The fonts used in the screenshots are: Terminus_, Roboto_ and Tamzen_.
 
 As taglist font, Blackburn and Dremora use Icons_, Vertex uses FontAwesome_: be sure to have bitmaps enabled if running under Debian or Ubuntu_.
 
